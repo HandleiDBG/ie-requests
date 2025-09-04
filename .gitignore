@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+ie_requests.egg-info/
+examples/
+tests/
